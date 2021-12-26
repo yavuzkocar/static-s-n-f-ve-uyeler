@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\static sınıf ve uyeler\bin\Debug\net5.0\static sınıf ve uyeler.exe
+D:\yazılım\pratikler\static sınıf ve uyeler\bin\Debug\net5.0\static sınıf ve uyeler.deps.json
+D:\yazılım\pratikler\static sınıf ve uyeler\bin\Debug\net5.0\static sınıf ve uyeler.runtimeconfig.json
+D:\yazılım\pratikler\static sınıf ve uyeler\bin\Debug\net5.0\static sınıf ve uyeler.runtimeconfig.dev.json
+D:\yazılım\pratikler\static sınıf ve uyeler\bin\Debug\net5.0\static sınıf ve uyeler.dll
+D:\yazılım\pratikler\static sınıf ve uyeler\bin\Debug\net5.0\ref\static sınıf ve uyeler.dll
+D:\yazılım\pratikler\static sınıf ve uyeler\bin\Debug\net5.0\static sınıf ve uyeler.pdb
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.AssemblyInfo.cs
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.dll
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\ref\static sınıf ve uyeler.dll
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.pdb
+D:\yazılım\pratikler\static sınıf ve uyeler\obj\Debug\net5.0\static sınıf ve uyeler.genruntimeconfig.cache
